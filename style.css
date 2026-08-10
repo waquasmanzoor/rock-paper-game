@@ -70,9 +70,13 @@ body{
     display:flex;
     margin-top: 30px;
     gap: 30px;
+    color: antiquewhite;
+    size: 40px;
+    font-family: monospace;
 }
 #user-score,#com-score{
     font-size: 30px;
+    color: antiquewhite;
 }
  #msg{
     background-color: aqua;
